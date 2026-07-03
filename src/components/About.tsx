@@ -23,7 +23,7 @@ export default function About() {
           <div>
 
             <span className="inline-flex items-center rounded-full bg-[#EFE7DA] px-5 py-2 text-sm font-medium text-[#B08D57]">
-              ABOUT Legal Partners
+              ABOUT LEGAL PARTNERS
             </span>
 
             <h2 className="mt-6 text-4xl font-bold leading-tight text-[#2D2A26] md:text-6xl">
