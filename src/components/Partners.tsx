@@ -17,7 +17,7 @@ const partners = [
     designation: "Senior Partner",
     experience: "10+ Years Experience",
     practice: "Corporate Cases",
-    image: "/images/partners/Partner-3.jpeg",
+    image: "/images/partners/Partner-6.jpeg",
     link: "/partners/janamejaye",
   },
   {
