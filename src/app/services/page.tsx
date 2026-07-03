@@ -135,23 +135,6 @@ export default function ServicesPage() {
         
           <div className="container mx-auto px-6">
         
-            <div className="mb-16 text-center">
-        
-              <span className="text-sm uppercase tracking-[4px] text-[#B08D57]">
-                PRACTICE AREAS
-              </span>
-        
-              <h2 className="mt-4 text-4xl font-bold text-[#2D2A26]">
-                Legal Services We Offer
-              </h2>
-        
-              <p className="mx-auto mt-6 max-w-3xl text-base leading-8 text-[#666]">
-                We provide comprehensive legal services with a commitment to
-                professionalism, transparency and client-focused solutions.
-              </p>
-        
-            </div>
-        
             <div className="grid gap-8 md:grid-cols-2 xl:grid-cols-3">
         
               {services.map((service) => {
