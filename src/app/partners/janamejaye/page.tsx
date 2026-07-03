@@ -62,7 +62,7 @@ export default function AKTiwariPage() {
                 <div className="absolute bottom-8 left-8 rounded-3xl bg-white px-8 py-6 shadow-xl">
 
                   <h3 className="text-4xl font-bold text-[#B08D57]">
-                    20+
+                    10+
                   </h3>
 
                   <p className="mt-2 text-[#666]">
