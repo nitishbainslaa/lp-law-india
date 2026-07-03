@@ -33,7 +33,7 @@ const partners = [
     designation: "Partner",
     experience: "3+ Years Experience",
     practice: "Criminal Cases",
-    image: "/images/partners/partner-5.jpeg",
+    image: "/images/partners/Partner-5.jpeg",
     link: "/partners/muskan",
   },
 ];
