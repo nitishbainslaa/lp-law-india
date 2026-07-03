@@ -53,7 +53,7 @@ export default function AboutIntro() {
         {/* Heading */}
 
         <span className="inline-flex rounded-full bg-[#EFE7DA] px-5 py-2 text-sm font-semibold tracking-wider text-[#B08D57]">
-          ABOUT LP LAW INDIA
+          ABOUT Legal Partners
         </span>
 
         <h1 className="mt-8 max-w-5xl text-5xl font-bold leading-tight text-[#2D2A26] md:text-7xl">
@@ -65,7 +65,7 @@ export default function AboutIntro() {
         </h1>
 
         <p className="mb-8 max-w-4xl text-justify leading-9 text-[#5A534D]">
-          At LP Law India, we believe that legal services are built on trust,
+          At Legal Partners, we believe that legal services are built on trust,
           integrity and long-term relationships. Our team is committed to
           providing practical legal guidance, strategic representation and
           personalised solutions that help individuals, families and businesses
@@ -90,7 +90,7 @@ export default function AboutIntro() {
             </h2>
 
             <p className="mt-8 text-justify leading-9 text-[#666]">
-              LP Law India was established with a clear vision of providing
+              Legal Partners was established with a clear vision of providing
               accessible, reliable and result-oriented legal services. We
               understand that every legal matter is unique, and therefore our
               approach focuses on understanding the individual circumstances,
