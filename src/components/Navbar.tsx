@@ -69,10 +69,10 @@ export default function Navbar() {
           <h1 className="text-3xl font-bold tracking-wide text-[#2D2A26] transition">
 
             <span className="text-[#B08D57]">
-              Legal
+              LEGAL
             </span>{" "}
 
-            Partners
+            PARTNERS
 
           </h1>
 
