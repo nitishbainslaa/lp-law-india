@@ -31,7 +31,7 @@ const achievements = [
   "Strategic Advisor for Individuals & Businesses",
 ];
 
-export default function AKTiwariPage() {
+export default function MuskanPage() {
   return (
     <>
       <Navbar />
