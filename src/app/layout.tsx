@@ -13,8 +13,8 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  title: "LP Law India",
-  description: "Legal Partners India",
+  title: "LEGAL PARTNERS",
+  description: "Legal Partners",
 };
 
 export default function RootLayout({
