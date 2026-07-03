@@ -57,7 +57,7 @@ export default function Hero() {
           <div className="max-w-3xl">
 
             <p className="mb-4 text-sm uppercase tracking-[6px] text-[#E8D3A8]">
-              LP LAW INDIA
+              Legal Partners
             </p>
 
             <h1 className="mb-6 text-5xl font-bold leading-tight text-white md:text-7xl">
