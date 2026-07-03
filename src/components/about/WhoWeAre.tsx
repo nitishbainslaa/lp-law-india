@@ -23,7 +23,7 @@ export default function WhoWeAre() {
 
               <Image
                 src="/images/about.jpg"
-                alt="LP Law India Team"
+                alt="Legal Partners"
                 fill
                 sizes="(max-width:768px) 100vw,50vw"
                 className="object-cover"
@@ -62,7 +62,7 @@ export default function WhoWeAre() {
             </h2>
 
             <p className="mt-8 text-justify leading-9 text-[#666]">
-              LP Law India is a modern legal practice dedicated to
+              Legal Partners India is a modern legal practice dedicated to
               providing strategic legal advice and practical solutions
               across a wide range of legal matters. Our philosophy is
               simple — understand every clients objectives first, then
