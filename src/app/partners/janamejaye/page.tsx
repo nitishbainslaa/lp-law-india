@@ -50,8 +50,8 @@ export default function AKTiwariPage() {
                 <div className="relative h-175 overflow-hidden rounded-[40px]">
 
                   <Image
-                    src="/images/partners/Partners-3.jpeg"
-                    alt="Advocate A. K. Tiwari"
+                    src="/images/partners/Partner-3.jpeg"
+                    alt="Advocate Janamajaye"
                     fill
                     sizes="(max-width:768px)100vw,50vw"
                     className="object-cover"
@@ -80,7 +80,7 @@ export default function AKTiwariPage() {
                 </span>
 
                 <h1 className="mt-8 text-6xl font-bold leading-tight text-[#2D2A26]">
-                  Adv. A. K. Tiwari
+                  Adv.Janamajaye
                 </h1>
 
                 <p className="mt-8 text-justify leading-9 text-[#666]">
