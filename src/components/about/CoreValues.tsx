@@ -66,7 +66,7 @@ export default function CoreValues() {
           </h2>
 
           <p className="mt-8 leading-9 text-[#666]">
-            At LP Law India, our values define every interaction,
+            At Legal Partners, our values define every interaction,
             every strategy and every legal solution we deliver.
             They are the foundation of our professional identity
             and long-term client relationships.
