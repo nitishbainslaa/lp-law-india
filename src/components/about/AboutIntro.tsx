@@ -53,7 +53,7 @@ export default function AboutIntro() {
         {/* Heading */}
 
         <span className="inline-flex rounded-full bg-[#EFE7DA] px-5 py-2 text-sm font-semibold tracking-wider text-[#B08D57]">
-          ABOUT Legal Partners
+          ABOUT LEGAL PARTNERS
         </span>
 
         <h1 className="mt-8 max-w-5xl text-5xl font-bold leading-tight text-[#2D2A26] md:text-7xl">
