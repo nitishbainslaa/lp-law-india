@@ -6,7 +6,7 @@ import { link } from "fs";
 const partners = [
   {
     name: "Advocate AK Tiwari",
-    designation: "Founder",
+    designation: "Senior Litigation Partner",
     experience: "18+ Years Experience",
     practice: "Matrimonial Cases",
     image: "/images/partners/Partner-1.jpeg",
@@ -14,26 +14,26 @@ const partners = [
   },
   {
     name: "Advocate Janamejaya",
-    designation: "Senior Partner",
+    designation: "Head of Litigation",
     experience: "10+ Years Experience",
     practice: "Corporate Cases",
-    image: "/images/partners/partner-3.jpeg",
+    image: "/images/partners/Partner-3.jpeg",
     link: "/partners/janamejaye",
   },
   {
     name: "Advocate Dipasha",
-    designation: "Partner",
+    designation: "Associate Partner",
     experience: "5+ Years Experience",
     practice: "Civil Cases",
-    image: "/images/partners/partner-2.jpeg",
+    image: "images/partners/Partner-6.jpeg",
     link: "/partners/dipasha",
   },
   {
     name: "Advocate Muskan",
-    designation: "Partner",
+    designation: "Associate Partner",
     experience: "3+ Years Experience",
     practice: "Criminal Cases",
-    image: "/images/partners/partner-5.jpeg",
+    image: "images/partners/Partner-5.jpeg",
     link: "/partners/muskan",
   },
 ];
