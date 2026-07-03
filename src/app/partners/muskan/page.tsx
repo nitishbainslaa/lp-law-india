@@ -50,8 +50,8 @@ export default function MuskanPage() {
                 <div className="relative h-175 overflow-hidden rounded-[40px]">
 
                   <Image
-                    src="/images/Founder.jpeg"
-                    alt="Advocate A. K. Tiwari"
+                    src="/images/partners/Partner-5.jpeg"
+                    alt="Advocate Muskan"
                     fill
                     sizes="(max-width:768px)100vw,50vw"
                     className="object-cover"
