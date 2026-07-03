@@ -9,7 +9,7 @@ import {
 const timeline = [
   {
     year: "2012",
-    title: "Foundation of LP Law India",
+    title: "Foundation of Legal Partners",
     description:
       "Our journey began with a vision to provide ethical, transparent and result-oriented legal services.",
     icon: Building2,
@@ -39,7 +39,7 @@ const timeline = [
     year: "Today",
     title: "Building the Future",
     description:
-      "LP Law India continues to evolve with technology, innovation and client-focused legal services.",
+      "Legal Partners continues to evolve with technology, innovation and client-focused legal services.",
     icon: Landmark,
   },
 ];
