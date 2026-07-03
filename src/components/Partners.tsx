@@ -25,7 +25,7 @@ const partners = [
     designation: "Partner",
     experience: "5+ Years Experience",
     practice: "Civil Cases",
-    image: "public/images/partners/Partner-6.jpeg",
+    image: "/images/partners/Partner-6.jpeg",
     link: "/partners/dipasha",
   },
   {
