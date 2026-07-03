@@ -36,7 +36,7 @@ export default function About() {
             </h2>
 
             <p className="mt-8 text-justify leading-9 text-[#666]">
-              LP Law India is dedicated to providing reliable,
+              Legal Partners is dedicated to providing reliable,
               practical and result-oriented legal services for
               individuals, businesses and institutions. Our team
               believes every client deserves honest advice,
