@@ -31,7 +31,7 @@ export default function Leadership() {
               </h3>
 
               <p className="mt-1 text-[#B08D57]">
-                Founder & Managing Partner
+                LEGAL PARTNERS
               </p>
 
             </div>
