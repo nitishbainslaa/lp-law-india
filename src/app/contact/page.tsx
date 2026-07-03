@@ -58,7 +58,7 @@ export default function ContactPage() {
     <div className="mx-auto max-w-4xl text-center">
 
       <span className="rounded-full bg-[#EFE4D3] px-5 py-2 text-sm font-semibold tracking-[3px] text-[#B08D57]">
-        CONTACT LP LAW INDIA
+        CONTACT Legal Partners
       </span>
 
       <h1 className="mt-8 text-5xl font-bold leading-tight text-[#2D2A26] md:text-6xl">
