@@ -25,7 +25,7 @@ const practiceAreas = [
 ];
 
 const achievements = [
-  "20+ Years of Professional Legal Experience",
+  "3+ Years of Professional Legal Experience",
   "1000+ Clients Successfully Represented",
   "500+ Litigation Matters Handled",
   "Strategic Advisor for Individuals & Businesses",
@@ -80,7 +80,7 @@ export default function MuskanPage() {
                 </span>
 
                 <h1 className="mt-8 text-6xl font-bold leading-tight text-[#2D2A26]">
-                  Adv. A. K. Tiwari
+                  Advocate Muskan
                 </h1>
 
                 <p className="mt-8 text-justify leading-9 text-[#666]">
