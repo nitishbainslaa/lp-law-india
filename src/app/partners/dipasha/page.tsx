@@ -31,7 +31,7 @@ const achievements = [
   "Strategic Advisor for Individuals & Businesses",
 ];
 
-export default function AKTiwariPage() {
+export default function DipashaPage() {
   return (
     <>
       <Navbar />
@@ -50,7 +50,7 @@ export default function AKTiwariPage() {
                 <div className="relative h-175 overflow-hidden rounded-[40px]">
 
                   <Image
-                    src="/images/partners/Partners-2.jpeg"
+                    src="/images/partners/Partners-6.jpeg"
                     alt="Advocate Dipasha"
                     fill
                     sizes="(max-width:768px)100vw,50vw"
