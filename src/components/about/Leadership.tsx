@@ -57,7 +57,7 @@ export default function Leadership() {
             </h2>
 
             <p className="mt-8 text-justify leading-9 text-[#666]">
-              At LP Law India, our vision has always been to build a
+              At Legal Partners, our vision has always been to build a
               law firm where trust, professionalism and ethics are
               valued above everything else.
             </p>
