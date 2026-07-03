@@ -16,7 +16,7 @@ const menuItems = [
   },
   {
     name: "Partners",
-    href: "/partners",
+    href: "#partners",
   },
   {
     name: "Services",
