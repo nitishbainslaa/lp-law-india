@@ -50,7 +50,7 @@ export default function DipashaPage() {
                 <div className="relative h-175 overflow-hidden rounded-[40px]">
 
                   <Image
-                    src="/images/partners/Partners-6.jpeg"
+                    src="/images/partners/Partner-6.jpeg"
                     alt="Advocate Dipasha"
                     fill
                     sizes="(max-width:768px)100vw,50vw"
