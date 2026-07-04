@@ -24,7 +24,7 @@ export default function Partners() {
     </h2>
 
     <p className="mx-auto mt-8 max-w-4xl text-lg leading-9 text-[#666]">
-      LP Law India brings together experienced advocates,
+      Legal Partners brings together experienced advocates,
       legal consultants and litigation professionals who
       work collaboratively to provide reliable legal
       representation across India. Our team is committed
