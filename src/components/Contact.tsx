@@ -84,9 +84,9 @@ export default function Contact() {
 
           {/* Right */}
 
-          <form className="rounded-3xl border border-[#E7DED1] bg-white p-8 shadow-sm">
+          <form className="rounded-3xl border border-[#E7DED1] bg-white p-5 shadow-sm">
 
-            <div className="grid gap-6 md:grid-cols-2">
+            <div className="grid gap-3 md:grid-cols-2">
 
               <input
                 type="text"
