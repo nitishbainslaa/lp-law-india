@@ -288,7 +288,7 @@ export default function ContactPage() {
 </section>
         {/* FAQ */}
 
-<section className="pb-28">
+<section className="pb-10">
 
   <div className="container mx-auto max-w-4xl px-6">
 
