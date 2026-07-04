@@ -22,11 +22,6 @@ const contactInfo = [
     title: "Email",
     value: "info@legalpartner.in",
   },
-  {
-    icon: Clock,
-    title: "Working Hours",
-    value: "Mon - Sat | 9:30 AM - 7:00 PM",
-  },
 ];
 
 export default function Contact() {
@@ -46,7 +41,10 @@ export default function Contact() {
           <h2 className="mt-3 text-5xl font-bold text-[#2D2A26]">
             Let's Discuss Your Legal Matter
           </h2>
-          <P>Whether you require legal consultation, litigation support, corporate advisory or family law assistance, our experienced legal professionals are here to guide you with practical, transparent and result-oriented legal solutions.</P>
+          <P>Whether you require legal consultation, litigation support, 
+            corporate advisory or family law assistance, our experienced legal 
+            professionals are here to guide you with practical, transparent and 
+            result-oriented legal solutions.</P>
 
         </div>
 
