@@ -22,7 +22,7 @@ export default function WhoWeAre() {
             <div className="relative h-162.5 overflow-hidden rounded-4xl">
 
               <Image
-                src="/images/about.jpg"
+                src="/images/map.jpg"
                 alt="Legal Partners"
                 fill
                 sizes="(max-width:768px) 100vw,50vw"
