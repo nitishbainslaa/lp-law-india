@@ -65,7 +65,7 @@ export default function WhyChooseUs() {
             Built Around Your Success
           </h2>
 
-          <p className="mt-8 text-lg leading-9 text-[#666]">
+          <p className="mt-4 text-lg leading-9 text-[#666]">
             We combine legal expertise, strategic thinking and a
             client-first approach to deliver practical solutions
             that protect your rights and support your long-term
