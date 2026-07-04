@@ -182,16 +182,6 @@ export default function ContactPage() {
 
           </div>
 
-          {/* Office Hours */}
-
-          <div className="flex gap-5 rounded-3xl border border-[#E7DED1] bg-white p-6">
-
-            <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-[#F8F5EF]">
-              <Clock3 className="text-[#B08D57]" />
-            </div>
-
-          </div>
-
         </div>
 
       </div>
@@ -203,10 +193,6 @@ export default function ContactPage() {
         <h2 className="text-3xl font-bold text-[#2D2A26]">
           Send Us A Message
         </h2>
-
-        <p className="mt-4 text-[#666]">
-          Fill out the form below and our legal team will contact you shortly.
-        </p>
 
         <form className="mt-10 space-y-6">
 
