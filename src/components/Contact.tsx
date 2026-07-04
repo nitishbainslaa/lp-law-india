@@ -47,12 +47,6 @@ export default function Contact() {
             Let's Discuss Your Legal Matter
           </h2>
 
-          <p className="mx-auto mt-6 max-w-3xl text-lg leading-8 text-[#666]">
-            Whether you need legal advice, representation, or
-            documentation assistance, our team is here to help.
-            Reach out today and schedule your consultation.
-          </p>
-
         </div>
 
         <div className="grid gap-10 lg:grid-cols-2">
@@ -71,7 +65,7 @@ export default function Contact() {
                   className="flex items-start gap-5 rounded-3xl border border-[#E7DED1] bg-white p-6"
                 >
 
-                  <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-[#B08D57] text-white">
+                  <div className="flex h-10 w-6 items-center justify-center rounded-2xl bg-[#B08D57] text-white">
 
                     <Icon size={24} />
 
