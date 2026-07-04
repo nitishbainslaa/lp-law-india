@@ -44,14 +44,14 @@ export default function Footer() {
             <h2 className="text-4xl font-bold">
 
               <span className="text-[#B08D57]">
-                LP
+                LEGAL
               </span>{" "}
-              Law India
+              PARTNERS
 
             </h2>
 
             <p className="mt-6 leading-8 text-gray-300">
-              LP Law India is committed to delivering trusted,
+              Legal Partners is committed to delivering trusted,
               ethical and client-focused legal services with
               professionalism, transparency and dedication.
             </p>
@@ -152,7 +152,7 @@ export default function Footer() {
                 />
 
                 <p className="text-gray-300">
-                  info@legalpartner.in
+                  info@legalpartners.in
                 </p>
 
               </div>
@@ -199,7 +199,7 @@ export default function Footer() {
         <div className="container mx-auto flex flex-col items-center justify-between gap-5 px-6 py-6 md:flex-row">
 
           <p className="text-gray-400">
-            © {new Date().getFullYear()} LP Law India.
+            © {new Date().getFullYear()} LEGAL PARTNERS.
             All Rights Reserved.
           </p>
 
