@@ -41,7 +41,7 @@ export default function PartnersPage() {
 
         {/* Breadcrumb */}
 
-        <section className="pt-16 pb-10">
+        <section className="py-10">
           <div className="container mx-auto px-6">
 
             <div className="flex items-center gap-2 text-sm">
