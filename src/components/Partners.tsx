@@ -9,7 +9,7 @@ export default function Partners() {
   return (
     <section
   id="partners"
-  className="bg-[#F8F5EF] py-24 border-t border-[#E7DED1]"
+  className="bg-[#F8F5EF] py-10 border-t border-[#E7DED1]"
 >
   <div className="container mx-auto max-w-5xl px-6 text-center">
 
