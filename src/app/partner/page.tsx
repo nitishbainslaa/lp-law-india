@@ -8,26 +8,26 @@ import Footer from "@/components/Footer";
 const partners = [
   {
     name: "Advocate AK Tiwari",
-    designation: "Founder",
+    designation: "Senior Litigation Partner",
     image: "/images/partners/Partner-1.jpeg",
     link: "/partners/aktiwari",
   },
   {
     name: "Advocate Janamejaya",
-    designation: "Senior Partner",
-    image: "/images/partners/partner-3.jpeg",
+    designation: "Head of Litigation",
+    image: "/images/partners/Partner-3.jpeg",
     link: "/partners/janamejaye",
   },
   {
     name: "Advocate Dipasha",
-    designation: "Partner",
-    image: "/images/partners/partner-2.jpeg",
+    designation: "Associate Partner",
+    image: "/images/partners/Partner-6.jpeg",
     link: "/partners/dipasha",
   },
   {
     name: "Advocate Muskan",
-    designation: "Partner",
-    image: "/images/partners/partner-5.jpeg",
+    designation: "Associate Partner",
+    image: "/images/partners/Partner-5.jpeg",
     link: "/partners/muskan",
   },
 ];
