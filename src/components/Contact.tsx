@@ -2,7 +2,6 @@ import {
   MapPin,
   Phone,
   Mail,
-  Clock,
   Send,
 } from "lucide-react";
 
@@ -72,7 +71,9 @@ export default function Contact() {
                     <h3 className="text-xl font-semibold text-[#2D2A26]">
                       {item.title}
                     </h3>
-
+                    <p className="mt-2 text-[#666]">
+                      {item.value}
+                    </p>
 
                   </div>
 
