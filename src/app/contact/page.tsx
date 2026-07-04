@@ -110,7 +110,7 @@ export default function ContactPage() {
 
         {/* Contact Cards */}
 
-        <div className="mt-10 space-y-6">
+        <div className="mt-0 space-y-3">
 
           {/* Address */}
 
@@ -188,20 +188,6 @@ export default function ContactPage() {
 
             <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-[#F8F5EF]">
               <Clock3 className="text-[#B08D57]" />
-            </div>
-
-            <div>
-
-              <h3 className="text-xl font-semibold text-[#2D2A26]">
-                Office Hours
-              </h3>
-
-              <p className="mt-2 leading-7 text-[#666]">
-                Monday – Saturday
-                <br />
-                10:00 AM – 7:00 PM
-              </p>
-
             </div>
 
           </div>
