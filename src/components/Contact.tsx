@@ -60,7 +60,7 @@ export default function Contact() {
                   className="flex items-start gap-5 rounded-3xl border border-[#E7DED1] bg-white p-6"
                 >
 
-                  <div className="flex h-10 w-6 items-center justify-center rounded-2xl bg-[#B08D57] text-white">
+                  <div className="flex h-14 w-10 items-center justify-center rounded-2xl bg-[#B08D57] text-white">
 
                     <Icon size={24} />
 
