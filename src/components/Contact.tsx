@@ -76,9 +76,6 @@ export default function Contact() {
                       {item.title}
                     </h3>
 
-                    <p className="mt-2 text-[#666]">
-                      {item.value}
-                    </p>
 
                   </div>
 
