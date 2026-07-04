@@ -48,7 +48,7 @@ const values = [
 
 export default function CoreValues() {
   return (
-    <section className="bg-[#F8F5EF] py-0 mb-10">
+    <section className="bg-[#F8F5EF] py-10 mb-10">
       <div className="container mx-auto px-6">
 
         {/* Heading */}
