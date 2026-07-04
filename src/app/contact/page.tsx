@@ -290,7 +290,7 @@ export default function ContactPage() {
 
 <section className="pb-10">
 
-  <div className="container mx-auto max-w-4xl px-6">
+  <div className="container mx-auto max-w-8xl px-6">
 
     <div className="mb-14 text-center">
 
