@@ -40,7 +40,11 @@ export default function Contact() {
           <h2 className="mt-3 text-5xl font-bold text-[#2D2A26]">
             Let's Discuss Your Legal Matter
           </h2>
-
+          <p className="mx-auto mt-6 max-w-3xl text-lg leading-8 text-[#666]">
+            Whether you need legal advice, representation, or
+            documentation assistance, our team is here to help.
+            Reach out today and schedule your consultation.
+          </p>
 
         </div>
 
