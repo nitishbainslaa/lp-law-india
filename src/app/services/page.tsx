@@ -97,7 +97,7 @@ export default function ServicesPage() {
       <main className="bg-[#F8F5EF]">
         {/* Hero */}
 
-          <section className="relative overflow-hidden py-24">
+          <section className="relative overflow-hidden py-15">
           
             <div className="absolute left-0 top-0 h-72 w-72 rounded-full bg-[#B08D57]/10 blur-3xl"></div>
           
@@ -131,7 +131,7 @@ export default function ServicesPage() {
           </section>
         {/* Services */}
 
-        <section className="pb-28">
+        <section className="pb-10">
         
           <div className="container mx-auto px-6">
         
