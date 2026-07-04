@@ -72,7 +72,7 @@ export default function PartnersPage() {
 
         {/* Partners */}
 
-        <section className="pb-24">
+        <section className="pb-10">
 
           <div className="container mx-auto px-6">
 
@@ -92,7 +92,7 @@ export default function PartnersPage() {
                       src={partner.image}
                       alt={partner.name}
                       fill
-                      sizes="(max-width:768px)100vw,(max-width:1200px)50vw,25vw"
+                      sizes="(max-width:568px)100vw,(max-width:800px)50vw,25vw"
                       className="object-cover transition duration-700 group-hover:scale-105"
                     />
 
