@@ -27,9 +27,9 @@ export default function Contact() {
   return (
     <section
       id="contact"
-      className="bg-[#F8F5EF] py-0 mb-10"
+      className="bg-[#F8F5EF] py-0 mb-5"
     >
-      <div className="container mx-auto px-6">
+      <div className="container mx-auto px-3">
 
         <div className="mb-10 text-center">
 
