@@ -101,7 +101,7 @@ export default function About() {
             <div className="relative h-162.5 overflow-hidden rounded-[40px]">
 
             <Image
-              src="/images/about.jpg"
+              src="/images/map.jpg"
               alt="About LP Law India"
               fill
               sizes="(max-width: 768px) 100vw, 50vw"
