@@ -76,7 +76,7 @@ export default function CoreValues() {
 
         {/* Cards */}
 
-        <div className="mt-20 grid text-justify gap-8 md:grid-cols-2 xl:grid-cols-3">
+        <div className="mt-10 grid text-justify gap-8 md:grid-cols-2 xl:grid-cols-3">
 
           {values.map((item) => {
 
