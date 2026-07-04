@@ -45,7 +45,7 @@ export default function Partners() {
     </p>
 
     <Link
-      href="/partners"
+      href="/partner"
       className="mt-12 inline-flex items-center gap-3 rounded-full bg-[#B08D57] px-8 py-4 text-white font-semibold transition-all duration-300 hover:bg-[#977446]"
     >
       Meet Our Partners
