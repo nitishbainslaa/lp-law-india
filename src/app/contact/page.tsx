@@ -247,7 +247,7 @@ export default function ContactPage() {
 </section>
         {/* Google Map */}
 
-<section className="pb-28">
+<section className="pb-10">
 
   <div className="container mx-auto px-6">
 
