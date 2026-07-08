@@ -107,7 +107,7 @@ export default function PartnersPage() {
           className="group w-[150px] overflow-hidden rounded-lg border border-[#E7DED1] bg-white transition-all duration-500 hover:-translate-y-2 hover:shadow-xl"
         >
 
-          <div className="relative h-[175px] bg-[#f7f3ec] overflow-hidden">
+          <div className="relative h-[155px] bg-[#f7f3ec] overflow-hidden">
 
             <Image
               src={partner.image}
