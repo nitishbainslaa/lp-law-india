@@ -104,7 +104,7 @@ export default function PartnersPage() {
         <Link
           key={partner.name}
           href={partner.link}
-          className="group w-[150px] overflow-hidden rounded-lg border border-[#E7DED1] bg-white transition-all duration-500 hover:-translate-y-2 hover:shadow-xl"
+          className="group w-[170px] overflow-hidden rounded-lg border border-[#E7DED1] bg-white transition-all duration-500 hover:-translate-y-2 hover:shadow-xl"
         >
 
           <div className="relative h-[140px] bg-[#f7f3ec] overflow-hidden">
