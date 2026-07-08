@@ -70,58 +70,56 @@ export default function PartnersPage() {
 
         {/* Partners */}
 
-        <section className="pb-12">
+<section className="pb-12">
+  <div className="mx-auto max-w-5xl px-6">
 
-          <div className="mx-auto max-w-6xl px-6">
+    <div className="grid justify-center gap-5 sm:grid-cols-2 lg:grid-cols-4">
 
-            <div className="grid justify-items-center gap-8 md:grid-cols-2 xl:grid-cols-4">
+      {partners.map((partner) => (
 
-              {partners.map((partner) => (
+        <Link
+          key={partner.name}
+          href={partner.link}
+          className="group w-[210px] overflow-hidden rounded-lg border border-[#E7DED1] bg-white transition-all duration-500 hover:-translate-y-2 hover:shadow-xl"
+        >
 
-                <Link
-                  key={partner.name}
-                  href={partner.link}
-                  className="group w-full max-w-[260px] overflow-hidden rounded-lg border border-[#E7DED1] bg-white transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl"
-                >
+          <div className="relative h-[145px] overflow-hidden">
 
-                  <div className="relative h-[190px] overflow-hidden">
+            <Image
+              src={partner.image}
+              alt={partner.name}
+              fill
+              sizes="210px"
+              className="object-cover transition duration-700 group-hover:scale-105"
+            />
 
-                    <Image
-                      src={partner.image}
-                      alt={partner.name}
-                      fill
-                      sizes="(max-width:768px)100vw,(max-width:1200px)50vw,25vw"
-                      className="object-cover transition duration-700 group-hover:scale-105"
-                    />
+          </div>
 
-                  </div>
+          <div className="border-t-4 border-[#B08D57] p-3">
 
-                  <div className="border-t-4 border-[#B08D57] p-4">
+            <h2 className="text-lg font-semibold text-[#2D2A26]">
+              {partner.name}
+            </h2>
 
-                    <h2 className="text-xl font-semibold text-[#2D2A26]">
-                      {partner.name}
-                    </h2>
+            <p className="mt-1 text-xs text-[#666]">
+              {partner.designation}
+            </p>
 
-                    <p className="mt-1 text-sm text-[#666]">
-                      {partner.designation}
-                    </p>
-
-                    <div className="mt-4 inline-flex items-center gap-2 text-sm font-medium text-[#B08D57] transition-all duration-300 group-hover:gap-4">
-                      View Profile
-                      <ArrowRight size={16} />
-                    </div>
-
-                  </div>
-
-                </Link>
-
-              ))}
-
+            <div className="mt-3 inline-flex items-center gap-2 text-xs font-medium text-[#B08D57] transition-all duration-300 group-hover:gap-3">
+              View Profile
+              <ArrowRight size={14} />
             </div>
 
           </div>
 
-        </section>
+        </Link>
+
+      ))}
+
+    </div>
+
+  </div>
+</section>
 
       </main>
 
