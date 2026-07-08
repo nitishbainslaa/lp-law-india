@@ -37,15 +37,14 @@ export default function PartnersPage() {
     <>
       <Navbar />
 
-      <main className="bg-[#F8F5EF] min-h-screen">
+      <main className="min-h-screen bg-[#F8F5EF]">
 
         {/* Breadcrumb */}
 
         <section className="py-10">
-          <div className="container mx-auto px-6">
+          <div className="mx-auto max-w-6xl px-6">
 
             <div className="flex items-center gap-2 text-sm">
-
               <Link
                 href="/"
                 className="text-[#666] transition hover:text-[#B08D57]"
@@ -58,7 +57,6 @@ export default function PartnersPage() {
               <span className="font-medium text-[#B08D57]">
                 Partners
               </span>
-
             </div>
 
             <h1 className="mt-5 text-5xl font-bold text-[#2D2A26]">
@@ -72,21 +70,21 @@ export default function PartnersPage() {
 
         {/* Partners */}
 
-        <section className="pb-10">
+        <section className="pb-12">
 
-          <div className="container mx-auto px-6">
+          <div className="mx-auto max-w-6xl px-6">
 
-            <div className="grid gap-8 md:grid-cols-2 xl:grid-cols-4">
+            <div className="grid justify-items-center gap-8 md:grid-cols-2 xl:grid-cols-4">
 
               {partners.map((partner) => (
 
                 <Link
                   key={partner.name}
                   href={partner.link}
-                  className="group overflow-hidden bg-white border border-[#E7DED1] transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl"
+                  className="group w-full max-w-[260px] overflow-hidden rounded-lg border border-[#E7DED1] bg-white transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl"
                 >
 
-                  <div className="relative h-[250px] overflow-hidden">
+                  <div className="relative h-[190px] overflow-hidden">
 
                     <Image
                       src={partner.image}
@@ -98,22 +96,19 @@ export default function PartnersPage() {
 
                   </div>
 
-                  <div className="border-t-4 border-[#B08D57] p-6">
+                  <div className="border-t-4 border-[#B08D57] p-4">
 
-                    <h2 className="text-2xl font-semibold text-[#2D2A26]">
+                    <h2 className="text-xl font-semibold text-[#2D2A26]">
                       {partner.name}
                     </h2>
 
-                    <p className="mt-2 text-[#666]">
+                    <p className="mt-1 text-sm text-[#666]">
                       {partner.designation}
                     </p>
 
-                    <div className="mt-6 inline-flex items-center gap-2 font-medium text-[#B08D57] transition-all duration-300 group-hover:gap-4">
-
+                    <div className="mt-4 inline-flex items-center gap-2 text-sm font-medium text-[#B08D57] transition-all duration-300 group-hover:gap-4">
                       View Profile
-
-                      <ArrowRight size={18} />
-
+                      <ArrowRight size={16} />
                     </div>
 
                   </div>
