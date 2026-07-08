@@ -113,7 +113,7 @@ export default function PartnersPage() {
               src={partner.image}
               alt={partner.name}
               fill
-              sizes="170px"
+              sizes="w-[180px]"
               className="object-contain p-0 transition duration-700 group-hover:scale-105"
             />
 
