@@ -19,7 +19,7 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email",
-    value: "info@legalpartner.in",
+    value: "info@legalpartners.in",
   },
 ];
 
