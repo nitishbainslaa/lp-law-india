@@ -97,7 +97,7 @@ export default function PartnersPage() {
 <section className="pb-12">
   <div className="mx-auto max-w-7xl px-6">
 
-    <div className="grid justify-center gap-5 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
+    <div className="grid justify-center gap-5 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6">
 
       {partners.map((partner) => (
 
@@ -114,7 +114,7 @@ export default function PartnersPage() {
               alt={partner.name}
               fill
               sizes="170px"
-              className="object-contain p-2 transition duration-700 group-hover:scale-105"
+              className="object-contain p-0 transition duration-700 group-hover:scale-105"
             />
 
           </div>
