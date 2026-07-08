@@ -104,7 +104,7 @@ export default function PartnersPage() {
         <Link
           key={partner.name}
           href={partner.link}
-          className="group w-[140px] overflow-hidden rounded-lg border border-[#E7DED1] bg-white transition-all duration-500 hover:-translate-y-2 hover:shadow-xl"
+          className="group w-[170px] overflow-hidden rounded-lg border border-[#E7DED1] bg-white transition-all duration-500 hover:-translate-y-2 hover:shadow-xl"
         >
 
           <div className="relative h-[145px] bg-[#f7f3ec] overflow-hidden">
@@ -113,7 +113,7 @@ export default function PartnersPage() {
               src={partner.image}
               alt={partner.name}
               fill
-              sizes="140px"
+              sizes="170px"
               className="object-contain p-2 transition duration-700 group-hover:scale-105"
             />
 
