@@ -92,7 +92,7 @@ export default function PartnersPage() {
                       src={partner.image}
                       alt={partner.name}
                       fill
-                      sizes="(max-width:768px)100vw,(max-width:1200px)50vw,25vw"
+                      sizes="(max-width:468px)60vw,(max-width:800px)30vw,15vw"
                       className="object-cover transition duration-700 group-hover:scale-105"
                     />
 
