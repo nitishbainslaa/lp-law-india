@@ -30,6 +30,30 @@ const partners = [
     image: "/images/partners/Partner-5.jpeg",
     link: "/partners/muskan",
   },
+    {
+    name: "Advocate AK Tiwari",
+    designation: "Senior Litigation Partner",
+    image: "/images/partners/Partner-1.jpeg",
+    link: "/partners/aktiwari",
+  },
+  {
+    name: "Advocate Janamejaya",
+    designation: "Head of Litigation",
+    image: "/images/partners/Partner-3.jpeg",
+    link: "/partners/janamejaye",
+  },
+  {
+    name: "Advocate Dipasha",
+    designation: "Associate Partner",
+    image: "/images/partners/Partner-6.jpeg",
+    link: "/partners/dipasha",
+  },
+  {
+    name: "Advocate Muskan",
+    designation: "Associate Partner",
+    image: "/images/partners/Partner-5.jpeg",
+    link: "/partners/muskan",
+  },
 ];
 
 export default function PartnersPage() {
