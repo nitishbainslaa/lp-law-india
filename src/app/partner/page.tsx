@@ -95,7 +95,7 @@ export default function PartnersPage() {
         {/* Partners */}
 
 <section className="pb-12">
-  <div className="mx-auto max-w-5xl px-6">
+  <div className="mx-auto max-w-7xl px-6">
 
     <div className="grid justify-center gap-5 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
 
@@ -113,7 +113,7 @@ export default function PartnersPage() {
               src={partner.image}
               alt={partner.name}
               fill
-              sizes="210px"
+              sizes="250px"
               className="object-contain p-2 transition duration-700 group-hover:scale-105"
             />
 
