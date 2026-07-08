@@ -175,7 +175,7 @@ export default function ContactPage() {
               </h3>
 
               <p className="mt-2 text-[#666]">
-                info@legalpartner.in
+                info@legalpartners.in
               </p>
 
             </div>
