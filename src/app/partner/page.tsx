@@ -104,16 +104,16 @@ export default function PartnersPage() {
         <Link
           key={partner.name}
           href={partner.link}
-          className="group w-[200px] overflow-hidden rounded-lg border border-[#E7DED1] bg-white transition-all duration-500 hover:-translate-y-2 hover:shadow-xl"
+          className="group w-[150px] overflow-hidden rounded-lg border border-[#E7DED1] bg-white transition-all duration-500 hover:-translate-y-2 hover:shadow-xl"
         >
 
-          <div className="relative h-[145px] bg-[#f7f3ec] overflow-hidden">
+          <div className="relative h-[175px] bg-[#f7f3ec] overflow-hidden">
 
             <Image
               src={partner.image}
               alt={partner.name}
               fill
-              sizes="200px"
+              sizes="150px"
               className="object-contain p-0 transition duration-700 group-hover:scale-105"
             />
 
