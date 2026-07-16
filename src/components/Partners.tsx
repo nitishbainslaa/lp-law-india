@@ -23,7 +23,7 @@ export default function Partners() {
       Across India
     </h2>
 
-    <p className="mx-auto mt-8 max-w-4xl text-lg leading-9 text-[#666]">
+    <p className="mx-auto mt-8 max-w-4xl text-justify leading-9 text-[#666]">
       Legal Partners brings together experienced advocates,
       legal consultants and litigation professionals who
       work collaboratively to provide reliable legal
@@ -34,7 +34,7 @@ export default function Partners() {
       corporate clients.
     </p>
 
-    <p className="mx-auto mt-6 max-w-4xl text-lg leading-9 text-[#666]">
+    <p className="mx-auto mt-6 max-w-4xl text-justify leading-9 text-[#666]">
       With expertise spanning matrimonial disputes,
       criminal defence, civil litigation, corporate law,
       property matters, consumer disputes, arbitration,
