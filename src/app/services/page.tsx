@@ -117,7 +117,7 @@ export default function ServicesPage() {
                   Solutions For Every Need
                 </h1>
           
-                <p className="mx-auto mt-8 max-w-3xl text-base leading-8 text-[#666]">
+                <p className="mx-auto mt-8 max-w-3xl text-justify leading-8 text-[#666]">
                   Legal Partners provides professional legal representation,
                   strategic advisory services and practical legal solutions
                   across a wide range of practice areas for individuals,
