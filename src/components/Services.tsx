@@ -115,7 +115,7 @@ export default function Services() {
 
         <div className="mt-20 text-center">
 
-         <Link href="/services" 
+         <Link href="/contact" 
            className="rounded-full bg-[#B08D57] px-10 py-4 text-white transition hover:scale-105 hover:bg-[#9A7848]">
 
             Schedule Consultation
