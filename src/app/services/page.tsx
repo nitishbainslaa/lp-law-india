@@ -121,7 +121,7 @@ export default function ServicesPage() {
                   Legal Partners provides professional legal representation,
                   strategic advisory services and practical legal solutions
                   across a wide range of practice areas for individuals,
-                  families, startups and businesses.
+                  families and businesses.
                 </p>
           
               </div>
