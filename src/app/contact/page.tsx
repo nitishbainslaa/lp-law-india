@@ -67,7 +67,7 @@ export default function ContactPage() {
         Legal Matter
       </h1>
 
-      <p className="mx-auto mt-8 max-w-3xl text-base leading-8 text-[#666]">
+      <p className="mx-auto mt-8 max-w-3xl text-justify leading-8 text-[#666]">
         Whether you require legal consultation, litigation support,
         corporate advisory or family law assistance, our experienced
         legal professionals are here to guide you with practical,
