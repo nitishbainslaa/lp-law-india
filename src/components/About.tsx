@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import { ArrowRight, BadgeCheck, ShieldCheck } from "lucide-react";
 
 const features = [
@@ -82,13 +83,13 @@ export default function About() {
 
             {/* Button */}
 
-            <button className="mt-12 inline-flex items-center gap-3 rounded-full bg-[#B08D57] px-8 py-4 text-white transition hover:scale-105 hover:bg-[#9A7848]">
-
-              Learn More
-
-              <ArrowRight size={18} />
-
-            </button>
+              <Link
+                href="/about"
+                className="mt-12 inline-flex items-center gap-3 rounded-full bg-[#B08D57] px-8 py-4 text-white transition hover:scale-105 hover:bg-[#9A7848]"
+              >
+                Learn More
+                <ArrowRight size={18} />
+              </Link>
 
           </div>
 
