@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "next/Link";
 import {
   Scale,
   BriefcaseBusiness,
@@ -120,7 +120,7 @@ export default function Services() {
 
             Schedule Consultation
 
-          </link>
+          </Link>
 
         </div>
 
