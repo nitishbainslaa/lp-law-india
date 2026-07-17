@@ -39,7 +39,7 @@ const partners = [
   {
     name: "Advocate Janamejaya",
     designation: "Head of Litigation",
-    image: "/images/partners/Partner-3.jpeg",
+    image: "/images/partners/janamejaye.jpeg",
     link: "/partners/janamejaye",
   },
   {
