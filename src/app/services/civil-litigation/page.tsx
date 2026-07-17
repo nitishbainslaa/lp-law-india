@@ -138,7 +138,7 @@ export default function CivilLitigationPage() {
                 </Link>
 
                 <Link
-                  href="/partners"
+                  href="/partner"
                   className="inline-flex items-center rounded-full border border-[#B08D57] px-8 py-4 font-semibold text-[#B08D57] transition hover:bg-[#B08D57] hover:text-white"
                 >
                   Speak With Our Lawyers
