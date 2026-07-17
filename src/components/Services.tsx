@@ -99,14 +99,14 @@ export default function Services() {
                 <p className="mt-4 leading-8 text-[#666]">
                   {service.description}
                 </p>
-
+<a href="https://lp-law-india.vercel.app/services/civil-litigation">
                 <button className="mt-8 flex items-center gap-2 text-[#B08D57] transition group-hover:gap-4">
 
                   Learn More
 
                   <ArrowRight size={18} />
 
-                </button>
+                </button></a>
 
               </div>
             );
