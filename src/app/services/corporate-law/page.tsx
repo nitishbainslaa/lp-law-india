@@ -61,7 +61,7 @@ export default function CivilLitigationPage() {
 
         {/* Breadcrumb */}
 
-        <section className="border-b border-[#E7DED1] py-8">
+        <section className="border-b border-[#E7DED1] py-4">
           <div className="container mx-auto px-6">
 
             <div className="flex items-center gap-2 text-sm">
@@ -95,7 +95,7 @@ export default function CivilLitigationPage() {
 
         {/* Hero */}
 
-        <section className="py-24">
+        <section className="py-12">
 
           <div className="container mx-auto grid items-center gap-16 px-6 lg:grid-cols-2">
 
@@ -167,7 +167,7 @@ export default function CivilLitigationPage() {
 
         {/* About */}
 
-        <section className="pb-24">
+        <section className="pb-10">
 
           <div className="container mx-auto px-6">
 
@@ -207,7 +207,7 @@ export default function CivilLitigationPage() {
         </section>
                 {/* Our Civil Litigation Services */}
 
-        <section className="bg-white py-24">
+        <section className="bg-white py-10">
 
           <div className="container mx-auto px-6">
 
@@ -274,7 +274,7 @@ export default function CivilLitigationPage() {
 
         {/* Why Choose Us */}
 
-        <section className="py-24">
+        <section className="py-10">
 
           <div className="container mx-auto px-6">
 
@@ -382,7 +382,7 @@ export default function CivilLitigationPage() {
 
         {/* Our Process */}
 
-        <section className="bg-white py-24">
+        <section className="bg-white py-10">
 
           <div className="container mx-auto px-6">
 
@@ -451,7 +451,7 @@ export default function CivilLitigationPage() {
         </section>
                 {/* Important Civil Laws */}
 
-        <section className="py-24">
+        <section className="py-10">
 
           <div className="container mx-auto px-6">
 
@@ -520,7 +520,7 @@ export default function CivilLitigationPage() {
 
         {/* FAQ */}
 
-        <section className="bg-white py-24">
+        <section className="bg-white py-10">
 
           <div className="container mx-auto px-6">
 
@@ -582,7 +582,7 @@ export default function CivilLitigationPage() {
 
         {/* CTA */}
 
-        <section className="py-24">
+        <section className="py-10">
 
           <div className="container mx-auto px-6">
 
