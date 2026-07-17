@@ -78,7 +78,7 @@ const services = [
     title: "RERA Matters",
     description:
       "Real estate disputes, builder issues and RERA legal representation.",
-    link: "/services/rera-matters",
+    link: "/services/RERA-matters",
   },
   {
     icon: Briefcase,
