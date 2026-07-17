@@ -15,36 +15,42 @@ const services = [
     description:
       "Expert representation in civil disputes, property matters and recovery suits.",
     icon: Scale,
+    link: "/services/civil-litigation",
   },
   {
     title: "Corporate Law",
     description:
       "Business formation, legal compliance, contracts and corporate advisory.",
     icon: BriefcaseBusiness,
+    link: "/services/corporate-law",
   },
   {
     title: "Property Law",
     description:
       "Property verification, documentation, registration and dispute resolution.",
     icon: Building2,
+    link: "/services/property-law",
   },
   {
     title: "Legal Documentation",
     description:
       "Agreements, notices, contracts, affidavits and legal drafting services.",
     icon: FileText,
+    link: "/services/legal-documentation",
   },
   {
     title: "Court Representation",
     description:
       "Professional representation before courts, tribunals and authorities.",
     icon: Landmark,
+    link: "/services/court-representation",
   },
   {
     title: "Legal Consultation",
     description:
       "One-to-one consultation with experienced legal professionals.",
     icon: ShieldCheck,
+    link: "/services/legal-consultation",
   },
 ];
 
@@ -81,9 +87,10 @@ export default function Services() {
             const Icon = service.icon;
 
             return (
-              <div
+              <Link
                 key={service.title}
-                className="group rounded-3xl border border-[#E7DED1] bg-white p-8 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl"
+                href={service.link}
+                className="group block rounded-3xl border border-[#E7DED1] bg-white p-8 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl hover:border-[#B08D57]"
               >
 
                 <div className="flex h-16 w-16 items-center justify-center rounded-2xl bg-[#F8F5EF] text-[#B08D57] transition group-hover:bg-[#B08D57] group-hover:text-white">
@@ -91,7 +98,7 @@ export default function Services() {
                   <Icon size={30} />
 
                 </div>
-<a href="https://lp-law-india.vercel.app/services/civil-litigation">
+
                 <h3 className="mt-8 text-2xl font-semibold text-[#2D2A26]">
                   {service.title}
                 </h3>
@@ -106,8 +113,7 @@ export default function Services() {
 
                   <ArrowRight size={18} />
 
-                </button></a>
-
+                </button>
               </div>
             );
           })}
