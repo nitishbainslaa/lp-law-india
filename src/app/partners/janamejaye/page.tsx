@@ -50,7 +50,7 @@ export default function AKTiwariPage() {
                 <div className="relative h-175 overflow-hidden rounded-[40px]">
 
                   <Image
-                    src="/images/partners/Partner-3.jpeg"
+                    src="/images/partners/janamejaye.jpeg"
                     alt="Advocate Janamajaye"
                     fill
                     sizes="(max-width:768px)100vw,50vw"
