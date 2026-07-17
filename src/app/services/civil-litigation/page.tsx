@@ -111,7 +111,7 @@ export default function CivilLitigationPage() {
                 Backed by Experience.
               </h1>
 
-              <p className="mt-8 text-lg leading-9 text-[#666]">
+              <p className="mt-8 text-justify leading-9 text-[#666]">
                 Civil disputes can significantly affect your personal,
                 financial and business interests. At LP Law India, we
                 provide comprehensive legal representation across a wide
@@ -120,7 +120,7 @@ export default function CivilLitigationPage() {
                 commercial litigation and appellate proceedings.
               </p>
 
-              <p className="mt-6 text-lg leading-9 text-[#666]">
+              <p className="mt-6 text-justify leading-9 text-[#666]">
                 Our litigation team combines strategic legal analysis,
                 practical courtroom advocacy and client-focused solutions
                 to safeguard your rights at every stage of the legal
@@ -138,7 +138,7 @@ export default function CivilLitigationPage() {
                 </Link>
 
                 <Link
-                  href="/contact"
+                  href="/partners"
                   className="inline-flex items-center rounded-full border border-[#B08D57] px-8 py-4 font-semibold text-[#B08D57] transition hover:bg-[#B08D57] hover:text-white"
                 >
                   Speak With Our Lawyers
@@ -181,7 +181,7 @@ export default function CivilLitigationPage() {
                 Resolving Civil Disputes with Precision and Professionalism
               </h2>
 
-              <p className="mt-8 text-lg leading-9 text-[#666]">
+              <p className="mt-8 text-justify leading-9 text-[#666]">
                 Civil litigation involves the resolution of disputes
                 between individuals, businesses, organizations and other
                 entities where monetary compensation, property rights,
@@ -191,7 +191,7 @@ export default function CivilLitigationPage() {
                 relief through the judicial process.
               </p>
 
-              <p className="mt-6 text-lg leading-9 text-[#666]">
+              <p className="mt-6 text-justify leading-9 text-[#666]">
                 LP Law India represents clients before Civil Courts,
                 Commercial Courts, District Courts, High Courts and
                 various tribunals across India. Our advocates carefully
@@ -221,7 +221,7 @@ export default function CivilLitigationPage() {
                 Civil Litigation Services We Provide
               </h2>
 
-              <p className="mt-6 text-lg leading-9 text-[#666]">
+              <p className="mt-6 text-justify leading-9 text-[#666]">
                 We represent individuals, startups, businesses and
                 corporate clients across a wide range of civil disputes,
                 ensuring practical legal solutions backed by strategic
@@ -290,7 +290,7 @@ export default function CivilLitigationPage() {
                   Trusted Representation in Every Civil Matter
                 </h2>
 
-                <p className="mt-8 text-lg leading-9 text-[#666]">
+                <p className="mt-8 text-justify leading-9 text-[#666]">
                   Every civil dispute is unique. Our litigation strategy
                   is built after carefully understanding the facts,
                   applicable law and the commercial implications of each
@@ -465,7 +465,7 @@ export default function CivilLitigationPage() {
                 Important Laws Governing Civil Litigation
               </h2>
 
-              <p className="mt-6 text-lg leading-9 text-[#666]">
+              <p className="mt-6 text-justify leading-9 text-[#666]">
                 Our advocates regularly represent clients under various
                 civil laws and procedural statutes applicable to disputes
                 involving property, contracts, commercial transactions,
@@ -598,7 +598,7 @@ export default function CivilLitigationPage() {
                 Experienced Civil Litigation Lawyers
               </h2>
 
-              <p className="mx-auto mt-8 max-w-3xl text-lg leading-9 text-gray-300">
+              <p className="mx-auto mt-8 max-w-3xl text-justify leading-9 text-gray-300">
                 Whether you are dealing with a property dispute,
                 contractual conflict, recovery proceedings or commercial
                 litigation, our legal team is ready to provide strategic
