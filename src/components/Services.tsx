@@ -36,21 +36,21 @@ const services = [
     description:
       "Agreements, notices, contracts, affidavits and legal drafting services.",
     icon: FileText,
-    link: "/services/legal-documentation",
+    link: "#",
   },
   {
     title: "Court Representation",
     description:
       "Professional representation before courts, tribunals and authorities.",
     icon: Landmark,
-    link: "/services/court-representation",
+    link: "#",
   },
   {
     title: "Legal Consultation",
     description:
       "One-to-one consultation with experienced legal professionals.",
     icon: ShieldCheck,
-    link: "/services/legal-consultation",
+    link: "#",
   },
 ];
 
