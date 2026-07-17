@@ -71,7 +71,7 @@ const services = [
     title: "Consumer Cases",
     description:
       "Consumer complaints, compensation claims and unfair trade practices.",
-    link: "/services/consumer-cases",
+    link: "/services/consumer-case",
   },
   {
     icon: ScrollText,
@@ -99,7 +99,7 @@ const services = [
     title: "Legal Documentation",
     description:
       "Agreements, notices, contracts, wills and legal drafting services.",
-    link: "/services/legal-documentation",
+    link: "#",
   },
 ];
 export default function ServicesPage() {
