@@ -91,7 +91,7 @@ export default function Services() {
                   <Icon size={30} />
 
                 </div>
-
+<a href="https://lp-law-india.vercel.app/services/civil-litigation">
                 <h3 className="mt-8 text-2xl font-semibold text-[#2D2A26]">
                   {service.title}
                 </h3>
@@ -99,7 +99,7 @@ export default function Services() {
                 <p className="mt-4 leading-8 text-[#666]">
                   {service.description}
                 </p>
-<a href="https://lp-law-india.vercel.app/services/civil-litigation">
+
                 <button className="mt-8 flex items-center gap-2 text-[#B08D57] transition group-hover:gap-4">
 
                   Learn More
