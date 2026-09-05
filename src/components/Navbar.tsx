@@ -121,7 +121,7 @@ export default function Navbar() {
             className="group inline-flex items-center gap-2 rounded-full bg-[#B08D57] px-6 py-3 text-sm font-semibold text-white transition-all duration-300 hover:bg-[#9A7848]"
           >
 
-            Free Consultation
+            Consultation
 
             <ArrowRight
               size={16}
