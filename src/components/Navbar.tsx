@@ -196,7 +196,7 @@ export default function Navbar() {
                 onClick={() => setMobileMenu(false)}
                 className="mt-4 inline-flex items-center justify-center gap-2 rounded-full bg-[#B08D57] px-6 py-4 text-white font-semibold transition hover:bg-[#9A7848]"
               >
-                Free Consultation
+                Consultation
 
                 <ArrowRight
                   size={18}
